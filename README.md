@@ -44,7 +44,7 @@ Income and spending score are not strongly correlated, allowing for meaningful s
 
 Machine Learning Model
 
-We applied K-Means Clustering to segment customers based on their Annual Income and Spending Score.
+I applied K-Means Clustering to segment customers based on their Annual Income and Spending Score.
 
 Steps:
 Feature Selection: Used Annual Income (k$) and Spending Score (1-100) for clustering.
